@@ -1,5 +1,6 @@
 
-Swift Fundamentals 1 
+Swift Fundamentals (Day 1) October 28th, 2019
+
 
 1. Identify, use, and understand the difference between the basic data types: `Int`, `Double`, `Bool`, `String`)
 
