@@ -20,6 +20,10 @@ Use conditional logic to execute various code paths
 Commit changes to a Git repository and write good commit messages
 Understand and explain the purpose of optionals
 
+****Monday Objectivists****
+Understand how braces `{}` are used to group code into blocks and how scope affects the lifespan of a variable
+
+Identify, use, and understand the difference between the basic data types: `Int`, `Double`, `Bool`, `String`)
 
 
 
