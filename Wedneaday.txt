@@ -1,0 +1,16 @@
+
+Swift Fundamentals 2  (Day 3)  Date: October 30th, 2019
+
+1. Define custom types using class, struct, and enum
+
+2. Show and explain the difference between value types vs. reference types
+
+3. Create custom initializers
+
+4. Understand and explain the difference between a method and a function
+
+5. Understand and explain the purpose of optionals
+
+6. Use an if let statement to unwrap an optional variable
+
+7. Force unwrap an optional type and understand the potential dangers and benefits
