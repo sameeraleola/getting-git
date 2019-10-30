@@ -11,6 +11,7 @@ Create three branches:
 * **Monday** branch will be the objectives covered Monday.
 * **Tuesday** branch will be the objectives covered Tuesday.
 * **Wednesday** branch will be the objectives covered today.
+* **Thursday** branch will be the objectives covered Thursday
 
 ### Push your Repo back to GitHub
 * You should make several commits as you work.
