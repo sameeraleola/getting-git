@@ -1,0 +1,14 @@
+
+Swift Fundamentals 1 
+
+1. Identify, use, and understand the difference between the basic data types: `Int`, `Double`, `Bool`, `String`)
+
+2. Understand how to apply mutability to variables (`let` vs. `var`)
+
+3. Use conditional logic to execute various code paths
+
+4. Iterate over an array using a loop to accomplish some task 
+
+5. Group like instructions into a function and call that function to reuse/organize code
+
+6. Understand how braces `{}` are used to group code into blocks and how scope affects the lifespan of a variable
