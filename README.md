@@ -1,5 +1,7 @@
 # Do you get Git?
 
+// Adding a note so I can leave a commit for this branch
+
 The **Objectives** file contains a list of all objectives covered on Monday, Tuesday, and today, but they are out of order.
 This is a chance to practice using GitHub, Terminal commands, and Git:
 
